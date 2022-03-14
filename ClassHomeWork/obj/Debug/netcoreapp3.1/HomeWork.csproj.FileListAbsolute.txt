@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\HomeWorks\AP103_14-03-2022_ClassPractice\ClassHomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
